@@ -142,9 +142,9 @@
             기타
             <ul>
               <li>프로젝트 초기 세팅</li>
-              <li>Axios 인스턴스 생성</li>
-              <li>API 요청 Hook 컨벤션 정리</li>
-              <li>라우팅 path 관리 및 접근 권한 인증/인가 HOC</li>
+              <li>Axios 인스턴스 관리</li>
+              <li>API 요청 로직 관리</li>
+              <li>라우팅 path 관리 및 접근 권한 인증/인가 HOC 작업</li>
               <li>Context API 조건부 렌더링 및 데이터 관리</li>
               <li>배포</li>
               <li>README 작성</li>
