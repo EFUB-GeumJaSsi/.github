@@ -477,27 +477,45 @@
 
 <table>
   <tr>
-    <th width="300px" align="center">Frontend</th>
-    <th width="300px" align="center">Backend</th>
-    <th width="300px" align="center">Design</th>
-    <th width="300px" align="center">Collaboration</th>
+    <th width="350px" align="center">Frontend</th>
+    <th width="350px" align="center">Backend</th>
+    <th width="250px" align="center">Design</th>
+    <th width="250px" align="center">Collaboration</th>
   </tr>
   <tr>
     <td valign="top">
       <ol type="I">
         <li>
-          Config
+          Config & Package Management
           <ul>
             <li><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></li>
           </ul>
         </li>
         <li>
-          Development
+          Core Technologies
           <ul>
-            <li><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></li>
             <li><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></li>
+            <li><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></li>
+          </ul>
+        </li>
+        <li>
+          Styling
+          <ul>
             <li><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /></li>
+          </ul>
+        </li>
+        <li>
+          Data Handling
+          <ul>
             <li><img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"></li>
+            <li><img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white"></li>
+            <li><img src="https://img.shields.io/badge/date--fns-770C56?style=for-the-badge&logo=date-fns&logoColor=white"></li>
+          </ul>
+        </li>
+        <li>
+          Utilities
+          <ul>
+            <li><img src="https://img.shields.io/badge/react--daum--postcode-FFCD00?style=for-the-badge&logo=kakao&logoColor=black" /></li>
           </ul>
         </li>
         <li>
@@ -511,25 +529,41 @@
     <td valign="top">
       <ol type="I">
         <li>
-          Development
+          Application Layer
           <ul>
-            <li><img src="https://img.shields.io/badge/Java-e11f21?style=for-the-badge&logo=Java&logoColor=white"></li>
+            <li><img src="https://img.shields.io/badge/Java-e11f21?style=for-the-badge&logo=openjdk&logoColor=white"></li>
             <li><img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></li>
-            <li><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JWT&logoColor=white"></li>
             <li><img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"></li>
+            <li><img src="https://img.shields.io/badge/JWT-282828?style=for-the-badge&logo=jsonwebtokens&logoColor=white"></li>
+          </ul>
+        </li>
+        <li>
+          Database Layer
+          <ul>
             <li><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></li>
             <li><img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"></li>
           </ul>
         </li>
         <li>
-          Deployment
+          CI/CD Pipeline
           <ul>
-            <li><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></li>
             <li><img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></li>
+            <li><img src="https://img.shields.io/badge/AWS_CodeDeploy-527FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white"></li>
+            <li><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></li>
+          </ul>
+        </li>
+        <li>
+          Deployment & Infrastructure
+          <ul>
             <li><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"></li>
             <li><img src="https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"></li>
             <li><img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"></li>
-            <li><img src="https://img.shields.io/badge/AWS_CodeDeploy-527FFF?style=for-the-badge&logo=amazoncodedeploy&logoColor=white"></li>
+          </ul>
+        </li>
+        <li>
+          Authentication & Integration
+          <ul>
+            <li><img src="https://img.shields.io/badge/Kakao_OAuth2.0-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"></li>
           </ul>
         </li>
       </ol>
