@@ -501,7 +501,7 @@
           </ul>
         </li>
         <li>
-          Deploy
+          Deployment
           <ul>
             <li><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></li>
           </ul>
@@ -522,7 +522,7 @@
           </ul>
         </li>
         <li>
-          Deploy
+          Deployment
           <ul>
             <li><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></li>
             <li><img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></li>
