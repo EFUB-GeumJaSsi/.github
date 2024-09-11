@@ -589,4 +589,65 @@
 
 <br>
 
-## 🎪 Preview
+## 🎪 시연영상
+<table>
+  <tr height="160px">
+    <td width="300px" align="center">
+      <a href="https://github.com/hyerinxx">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/hyerinxx" />
+      </a>
+    </td>
+    <td width="300px" align="center">
+      <a href="https://github.com/rwaeng">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/rwaeng" />
+      </a>
+    </td>
+    <td width="300px" align="center">
+      <a href="https://github.com/sj0919">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/sj0919" />
+      </a>
+    </td>
+    <td width="300px" align="center">
+      <a href="https://github.com/ch9968">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/ch9968" />
+      </a>
+    </td>
+  </tr>
+  <tr height="30px">
+    <th align="center">
+      <a href="https://github.com/hyerinxx">
+        성혜린
+      </a>
+    </th>
+    <th align="center">
+      <a href="https://github.com/rwaeng">
+        조아령
+      </a>
+    </th>
+    <th align="center">
+      <a href="https://github.com/sj0919">
+        이승진
+      </a>
+    </th>
+    <th align="center">
+      <a href="https://github.com/ch9968">
+        이찬희
+      </a>
+    </th>
+  </tr>
+  <tr height="30px">
+    <td align="center">
+      Product Manager <br>
+      Frontend Lead
+    </td>
+    <td align="center">
+      Frontend Lead
+    </td>
+    <td align="center">
+      Frontend Intern
+    </td>
+    <td align="center">
+      Frontend Intern
+    </td>
+  </tr>
+</table>
