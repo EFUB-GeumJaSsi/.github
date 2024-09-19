@@ -590,3 +590,101 @@
 <br>
 
 ## 🎪 Preview
+<table>
+  <tr>
+    <th width="350px" align="center">1.회원가입</th>
+    <th width="350px" align="center">2.로그인</th>
+    <th width="350px" align="center">3.펀딩 개설</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/4875d8de-9804-4f45-89b1-7c75fb680ba6">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/3c4f93b2-47eb-4bf4-b564-dfd59849581a">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/cb62fcae-5d19-4d7a-9948-70755ec20b60">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">4. 펀딩 개설 취소</th>
+    <th align="center">5. 펀딩 검색</th>
+    <th align="center">6. 펀딩 참여</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/bf4fd7fc-0ce5-4145-9068-0d99333112f5">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/304d59c8-0c5d-49ab-85da-925e530ce809">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/0979e4f4-6c68-4451-998c-eb679f07d325">
+    </td>
+  </tr>
+   <tr>
+    <th align="center">7. 펀딩 참여취소</th>
+    <th align="center">8. 펀딩 캘린더</th>
+    <th align="center">9. 친구기능(최근 내 펀딩에 참여한 친구)</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/8edf2783-62ee-4241-a55c-4a83eb7acffa">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/d528b7f3-47df-414b-8c60-252986ef46cb">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/c26ef6af-508c-4a61-9035-a81b475274fb">
+    </td>
+  </tr>
+   <tr>
+    <th align="center">9.. 친구기능(친구요청, 친구 삭제)</th>
+    <th align="center">10. 알림</th>
+    <th align="center">11. 선물후기-작성/수정</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/703088c2-29fe-4c60-aa31-ac60d39a2441">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f14fdaed-09cb-49f3-b400-c2c5e60400e7">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/8dab28d2-79f2-4958-9811-4a15a3496d31">
+    </td>
+  </tr>
+   <tr>
+    <th align="center">12. 축하메세지 수정</th>
+    <th align="center">13. 프로필 수정</th>
+    <th align="center">14. 튜토리얼</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/141b7340-52d7-47cf-af67-ca27ed1703f1">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/18fc51a6-fe64-40b6-bdd2-e18262202cce">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/bf577e11-f1c2-48dd-be04-135fe8c01e13">
+    </td>
+  </tr>
+   <tr>
+    <th align="center">15. 펀딩 조회</th>
+    <th align="center">16. 로그아웃</th>
+    <th align="center">17. 회원 탈퇴</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/5a8faf0f-ce31-4898-824c-b72371956119">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f6b4cce2-25cf-4831-bc28-11e592f1576f">
+    </td>
+     <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f1b0ce92-1f9b-4396-9edf-43cb59bd5fdc">
+    </td>
+  </tr>
+</table>
