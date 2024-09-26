@@ -594,7 +594,6 @@
   <tr>
     <th width="350px" align="center">1.회원가입</th>
     <th width="350px" align="center">2.로그인</th>
-    <th width="350px" align="center">3.펀딩 개설</th>
   </tr>
   <tr>
     <td valign="top">
@@ -603,24 +602,46 @@
     <td valign="top">
       <img src="https://github.com/user-attachments/assets/3c4f93b2-47eb-4bf4-b564-dfd59849581a">
     </td>
+  </tr>
+   <tr>
+    <th width="350px" align="center">3.펀딩 개설-1</th>
+    <th width="350px" align="center">3.펀딩 개설-2</th>
+    <th width="350px" align="center">3.펀딩 개설-3</th>
+    
+  </tr>
+  <tr>
+     <td valign="top">
+      <img src="https://github.com/user-attachments/assets/b43fcc41-8b60-4cd4-9aee-66137e74c759">
+    </td>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/cb62fcae-5d19-4d7a-9948-70755ec20b60">
+      <img src="https://github.com/user-attachments/assets/fb9298b0-c782-43e1-bb64-6fdf6014cd8a">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/82bc4c68-7f07-4ddc-acca-fa57ef32b257">
     </td>
   </tr>
   <tr>
     <th align="center">4. 펀딩 개설 취소</th>
     <th align="center">5. 펀딩 검색</th>
-    <th align="center">6. 펀딩 참여</th>
   </tr>
   <tr>
     <td valign="top">
       <img src="https://github.com/user-attachments/assets/bf4fd7fc-0ce5-4145-9068-0d99333112f5">
     </td>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/304d59c8-0c5d-49ab-85da-925e530ce809">
+      <img src="https://github.com/user-attachments/assets/160e6cf9-ebbc-480f-baf1-8eed2338b8ac">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">6. 펀딩 참여-1</th>
+    <th align="center">6. 펀딩 참여-2</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/c7b457e5-6e2b-41da-ae15-c303916cc1fb">
     </td>
     <td valign="top">
-      <img src="https://github.com/user-attachments/assets/0979e4f4-6c68-4451-998c-eb679f07d325">
+      <img src="https://github.com/user-attachments/assets/7aae6169-b600-4f72-ac9f-ff72e7c5f481">
     </td>
   </tr>
    <tr>
