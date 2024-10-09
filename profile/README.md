@@ -591,7 +591,7 @@
 
 ## 🎪 Preview
 
-<a href="https://www.youtube.com/watch?v=wabuBjsvLEU"><img width="50%" src="https://github.com/user-attachments/assets/b65df823-9672-47a0-b516-dac264c9d637" /></a>
+<a href="https://www.youtube.com/watch?v=wabuBjsvLEU"><img width="75%" src="https://github.com/user-attachments/assets/b65df823-9672-47a0-b516-dac264c9d637" /></a>
 
 <table>
   <tr>
