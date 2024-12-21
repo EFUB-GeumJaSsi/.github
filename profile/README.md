@@ -45,7 +45,7 @@
   </tr>
   <tr height="30px">
     <th align="center">
-      <a href="https://github.com/hyerinxx">
+      <a href="https://github.com/hyerindev">
         성혜린
       </a>
     </th>
