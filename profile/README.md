@@ -23,8 +23,8 @@
 <table>
   <tr height="160px">
     <td width="300px" align="center">
-      <a href="https://github.com/hyerinxx">
-        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/hyerinxx" />
+      <a href="https://github.com/hyerindev">
+        <img height="150px" width="150px" src="https://avatars.githubusercontent.com/hyerindev" />
       </a>
     </td>
     <td width="300px" align="center">
